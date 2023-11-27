@@ -37,7 +37,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O jogo da velha ou jogo do galo ou três em linha é um jogo e/ou passatempo popular. É um jogo de regras extremamente simples, que não traz grandes dificuldades para seus jogadores e é facilmente aprendido.
 Neste projeto implementei as regras do jogo utilizando o ReactJs para obter o resultado final.
 
-- [Jogue e se divirta]([https://tictactoe-5b52owx8i-elvisear.vercel.app/])
+- [Jogue e se divirta](https://tictactoe-5b52owx8i-elvisear.vercel.app/).
 
 ## 🔖 Layout
 
